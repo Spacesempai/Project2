@@ -1,0 +1,3 @@
+<aura:event type="APPLICATION" description="selectBrandAppEvent">
+    <aura:attribute name="filteredList" type="Shop_Product__c[]" />
+</aura:event>
